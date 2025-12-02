@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぱくちー",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:31:22.494925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぱくちー",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ぱくちー_NEE.txt"
+    }
+  ]
+}
